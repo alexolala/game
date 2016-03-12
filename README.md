@@ -29,8 +29,23 @@ Blokus：
 
 2、每位玩家新放的棋子必须与棋盘上自己的棋子角对角接触，不能有边对边的接触。和其他颜色棋子则没限制。
 
+![](http://img.bimg.126.net/photo/t7q8fiz5zXJYmBU5nJfY3g==/3108891117770568940.jpg) 
+
 3、若一位玩家无法安置更多的棋子，则跳过他的回合，由其下一个玩家放置棋子，直到所有玩家都无法再放更多的棋子。
 
+Chessmen = 21
+
+While(chessmen)
+  {
+  
+    if(more places){
+       Place()
+     }
+     else{
+       quit
+     }
+  }
+end
 Blokus Plus：
 ----
 
