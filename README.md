@@ -1,5 +1,8 @@
-本游戏是在法国著名数学家Bernard Tavitian所发明的一款益智类棋盘游戏Blokus的基础上改编而成的。
+Blokus Plus
 =====
+
+本游戏是在法国著名数学家Bernard Tavitian所发明的一款益智类棋盘游戏Blokus的基础上改编而成的。
+
 Blokus：
 -----
 ##一、游戏组成
@@ -7,6 +10,8 @@ Blokus：
 1、一个20X20的棋盘上所玩的游戏。
 
 2、4种颜色的方块，每种颜色的方块均有21种不同的形状，每个形状均有1至5个小格子组成，共84个小格子，如下所示。
+
+![](http://img.bbs.szhome.com/UploadFiles/Images/2007/06/02/02110728734.gif)  
 
 3、本游戏适合2or4人。
 
