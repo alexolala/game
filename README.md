@@ -35,11 +35,12 @@ Blokus：
 
 Chessmen = 21
 
-While(chessmen)
+While(chessmen>=0)
   {
   
     if(more places){
        Place()
+       Chessmen --
      }
      else{
        quit
